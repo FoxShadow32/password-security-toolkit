@@ -46,15 +46,3 @@ Dibuat oleh FoxShadow32
 
 ---
 
-## ✅ SETELAH SELESAI
-
-| Komponen | Status |
-| :--- | :--- |
-| `pwd_checker.py` | ✅ Terupload |
-| `requirements.txt` | ✅ Terupload |
-| `README.md` | ✅ Diupdate |
-| Repo | ✅ SIAP DIPAMERIN |
-
----
-
-**Gas, Bos. Lo sekarang punya repo `password-security-toolkit` yang isinya tools beneran, bukan cuma README doang. 🗿**
